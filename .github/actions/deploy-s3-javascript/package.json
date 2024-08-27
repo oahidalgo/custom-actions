@@ -2,7 +2,6 @@
   "name": "02-basic-example",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "lint": "eslint --ext .jsx --fix src",
